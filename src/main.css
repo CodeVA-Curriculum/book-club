@@ -1,0 +1,49 @@
+/* Fonts */
+@font-face {
+    font-family: Le-Havre-Bold;
+    src:url(/fonts/le-havre/Le-Havre-Bold.otf)
+}
+@font-face {
+    font-family: Raleway-Regular;
+    src:url(/fonts/raleway/Raleway-Regular.ttf)
+}
+
+body {
+    margin-right: auto;
+    margin-left: auto;
+    max-width:780px;
+    padding-left:4rem;
+    padding-right:4rem;
+}
+
+h1 {
+    font-family: Le-Havre-Bold;
+    font-size: 48px;
+
+}
+h2 {
+    font-family: Le-Havre-Bold;
+    font-size: 44px;
+}
+h3 {
+    font-family: Le-Havre-Bold;
+    font-size: 32px;
+}
+h4 {
+    font-family: Le-Havre-Bold;
+}
+h5 {
+    font-family: Le-Havre-Bold;
+}
+h6 {
+    font-family: Le-Havre-Bold;
+}
+
+p {
+    font-family: Raleway-Regular;
+    font-size: 18px;
+}
+hr{
+    margin-bottom: 6rem;
+    margin-top: 2rem;
+}
